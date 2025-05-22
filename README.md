@@ -1,4 +1,6 @@
-<img src="Banner.png" alt="Announcment" style="width:100%; ; object-fit:cover;  border-radius:20px;" />
+![gambar](Banner.png)
+<img src="Banner.png" alt="Banner" style="width:100%; height:300px; object-fit:cover;" />
+
 <br/>
 
 
