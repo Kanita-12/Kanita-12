@@ -17,10 +17,11 @@
 </a>
 
 
-
+<br><br>
+<br>
 <div align="center">
-  <img height="200" style="padding-top: 100px; padding-right: 50px;" src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
-  <img height="200" style="padding-top: 10px; padding-right: 10px;" src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
+  <img height="200" src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
+  <img height="200"  src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
 </div>
 
 
