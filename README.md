@@ -1,5 +1,23 @@
 ![banner](Banner.png)
 
+<style>
+    .heart-frame {
+      display: inline-block;
+      padding-top: 10px;
+      padding-right: 10px;
+      width: 200px;
+      height: 200px;
+      position: relative;
+      clip-path: path("M100 180 C-60 60, 50 -40, 100 30 C150 -40, 260 60, 100 180 Z");
+      overflow: hidden;
+    }
+    .heart-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
+
 
 
 
@@ -15,10 +33,30 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif"  />
-  <img height="200" src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif"  />
-</div>
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+  <div align="center">
+    <div class="heart-frame">
+      <img src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
+    </div>
+    <div class="heart-frame">
+      <img src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
+    </div>
+    <div class="heart-frame">
+      <img src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
+    </div>
+  </div>
+
 
 
 ###
