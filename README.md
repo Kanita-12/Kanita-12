@@ -1,26 +1,5 @@
 ![banner](Banner.png)
 
-<style>
-    .heart-frame {
-      display: inline-block;
-      padding-top: 10px;
-      padding-right: 10px;
-      width: 200px;
-      height: 200px;
-      position: relative;
-      clip-path: path("M100 180 C-60 60, 50 -40, 100 30 C150 -40, 260 60, 100 180 Z");
-      overflow: hidden;
-    }
-    .heart-frame img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-  </style>
-
-
-
-
 ### Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <br>
@@ -39,26 +18,10 @@
 
 
 
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-  <div align="center">
-    <div class="heart-frame">
-      <img src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
-    </div>
-    <div class="heart-frame">
-      <img src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
-    </div>
-    <div class="heart-frame">
-      <img src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
-    </div>
-  </div>
+<div align="center">
+  <img height="200" style="padding-top: 100px; padding-right: 50px;" src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
+  <img height="200" style="padding-top: 10px; padding-right: 10px;" src="https://media1.tenor.com/m/ZMbJHT-Pp0MAAAAC/kurumi-finger-spin.gif" />
+</div>
 
 
 
